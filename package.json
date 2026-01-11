@@ -1,0 +1,21 @@
+{
+  "name": "fitness-gym",
+  "version": "1.0.0",
+  "description": "Fitness Gym website with Node.js backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "gym",
+    "fitness",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.7"
+  }
+}
